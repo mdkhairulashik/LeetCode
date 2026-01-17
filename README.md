@@ -1,5 +1,5 @@
 # LeetCode
-Here you can get all my DSA Problem Solvings
+Here you can get all my DSA Problem Solvings in Python
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
