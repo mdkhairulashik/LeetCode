@@ -1,5 +1,4 @@
 class Solution(object):
-    import math
     def isPowerOfTwo(self, n):
         """
         :type n: int
