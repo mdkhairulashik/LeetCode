@@ -13,6 +13,7 @@ Here you can get all my DSA Problem Solvings in Python
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdkhairulashik/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/mdkhairulashik/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/mdkhairulashik/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdkhairulashik/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/mdkhairulashik/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -42,4 +44,8 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mdkhairulashik/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mdkhairulashik/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
