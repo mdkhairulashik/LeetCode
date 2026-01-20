@@ -6,6 +6,7 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdkhairulashik/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mdkhairulashik/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/mdkhairulashik/LeetCode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mdkhairulashik/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
@@ -52,4 +53,12 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mdkhairulashik/LeetCode/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mdkhairulashik/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mdkhairulashik/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
