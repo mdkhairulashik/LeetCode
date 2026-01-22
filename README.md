@@ -15,6 +15,7 @@ Here you can get all my DSA Problem Solvings in Python
 | [0002-add-two-numbers](https://github.com/mdkhairulashik/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/mdkhairulashik/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mdkhairulashik/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mdkhairulashik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mdkhairulashik/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/mdkhairulashik/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
@@ -23,6 +24,7 @@ Here you can get all my DSA Problem Solvings in Python
 | [0001-two-sum](https://github.com/mdkhairulashik/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdkhairulashik/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/mdkhairulashik/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mdkhairulashik/LeetCode/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +39,7 @@ Here you can get all my DSA Problem Solvings in Python
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdkhairulashik/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/mdkhairulashik/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/mdkhairulashik/LeetCode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
