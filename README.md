@@ -18,6 +18,7 @@ Here you can get all my DSA Problem Solvings in Python
 | [0012-integer-to-roman](https://github.com/mdkhairulashik/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mdkhairulashik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mdkhairulashik/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mdkhairulashik/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/mdkhairulashik/LeetCode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ Here you can get all my DSA Problem Solvings in Python
 | [0013-roman-to-integer](https://github.com/mdkhairulashik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mdkhairulashik/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/mdkhairulashik/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mdkhairulashik/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Here you can get all my DSA Problem Solvings in Python
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mdkhairulashik/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/mdkhairulashik/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
@@ -71,4 +74,8 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mdkhairulashik/LeetCode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mdkhairulashik/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
