@@ -88,4 +88,8 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdkhairulashik/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/mdkhairulashik/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
