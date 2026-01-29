@@ -8,6 +8,7 @@ Here you can get all my DSA Problem Solvings in Python
 | [0001-two-sum](https://github.com/mdkhairulashik/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdkhairulashik/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mdkhairulashik/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/mdkhairulashik/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/mdkhairulashik/LeetCode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mdkhairulashik/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
@@ -57,10 +58,12 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdkhairulashik/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/mdkhairulashik/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mdkhairulashik/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mdkhairulashik/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mdkhairulashik/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Bit Manipulation
 |  |
