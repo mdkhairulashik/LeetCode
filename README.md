@@ -23,6 +23,7 @@ Here you can get all my DSA Problem Solvings in Python
 | [0067-add-binary](https://github.com/mdkhairulashik/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mdkhairulashik/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mdkhairulashik/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mdkhairulashik/LeetCode/tree/master/0258-add-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mdkhairulashik/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/mdkhairulashik/LeetCode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +98,8 @@ Here you can get all my DSA Problem Solvings in Python
 | ------- |
 | [0182-duplicate-emails](https://github.com/mdkhairulashik/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/mdkhairulashik/LeetCode/tree/master/0183-customers-who-never-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mdkhairulashik/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
