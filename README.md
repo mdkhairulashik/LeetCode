@@ -32,6 +32,7 @@ Here you can get all my DSA Problem Solvings in Python
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdkhairulashik/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/mdkhairulashik/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mdkhairulashik/LeetCode/tree/master/0013-roman-to-integer) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mdkhairulashik/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Here you can get all my DSA Problem Solvings in Python
 | [0014-longest-common-prefix](https://github.com/mdkhairulashik/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/mdkhairulashik/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mdkhairulashik/LeetCode/tree/master/0067-add-binary) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mdkhairulashik/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,4 +106,8 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mdkhairulashik/LeetCode/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mdkhairulashik/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
