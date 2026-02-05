@@ -12,6 +12,7 @@ Here you can get all my DSA Problem Solvings in Python
 | [0055-jump-game](https://github.com/mdkhairulashik/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/mdkhairulashik/LeetCode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mdkhairulashik/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0283-move-zeroes](https://github.com/mdkhairulashik/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Here you can get all my DSA Problem Solvings in Python
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdkhairulashik/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/mdkhairulashik/LeetCode/tree/master/0283-move-zeroes) |
 ## Database
 |  |
 | ------- |
